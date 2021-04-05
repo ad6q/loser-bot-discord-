@@ -1,2 +1,1 @@
-# loser-bot-discord-
-some shitty robot that i plan on developing over the next few months
+will add sorce code soon, still working on the first vertions of it
